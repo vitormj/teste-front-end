@@ -1,0 +1,18 @@
+{
+  "name": "grunt-js-base",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cfarm/grunt-js-base.git"
+  },
+  "author": "Catherine Farman",
+  "homepage": "http://cfarman.com"
+}
